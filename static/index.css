@@ -88,6 +88,7 @@
         color: white;
         position: relative;
         z-index:999;
+        padding: 10px;
     }
     /* Some CSS will always be overwritten, avoiding it with all: initial; */
     .myStatsHeader {
