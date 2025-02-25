@@ -103,12 +103,12 @@
     .myStatsHeaderImg > img {
         vertical-align: top;
     }
-    @media only screen and (max-width: 900px) {
+    @media (max-width: 900px) {
         .myStatsHeaderRight,
         .myStatsHeaderImg.partner {
             display: none;
         }
-      }
+    }
     /* Some CSS will always be overwritten, avoiding it with all: initial; */
     .myStatsHeader {
         all: initial;
