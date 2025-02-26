@@ -153,7 +153,7 @@
         width:100%;
         position:absolute;
         bottom:0.0%;
-        background:#A80010;
+        background:rgba(0, 0, 0, 0.6);
         opacity:0.4;
         z-index:999;
     }
